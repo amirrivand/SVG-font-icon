@@ -1,0 +1,23 @@
+{
+	"name": "svg-font-icon",
+	"version": "1.0.0",
+	"description": "A utility for making font of svg icons.",
+	"main": "index.js",
+	"repository": "https://github.com/amirrivand/SVG-font-icon.git",
+	"author": {
+		"name": "Amir Mohammad Rivand",
+		"email": "a_rivand@yahoo.com",
+		"url": "https://amirrivand.ir"
+	},
+	"license": "GNU",
+	"private": false,
+	"dependencies": {
+		"svgtofont": "^3.25.4"
+	},
+	"devDependencies": {
+		"prettier": "^3.0.1"
+	},
+	"scripts": {
+		"start": "node index.js"
+	}
+}
